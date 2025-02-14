@@ -38,4 +38,5 @@ best_logreg.pkl
 best_rf.pkl
 best_xgb.pkl
 best_lgbm.pkl
-scaler.pkl
+scaler.pklcorpus_tokenized.csv
+corpus_tokenized.csv
